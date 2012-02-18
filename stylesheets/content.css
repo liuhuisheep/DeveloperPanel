@@ -1,0 +1,24 @@
+#content div{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	width: 1000px;
+	
+	text-align: center;
+}
+#content #overview{
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 700px;
+}
+#content #login_div{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 300px;
+}
+#content #clear{
+	clear: both;
+}

@@ -1,0 +1,14 @@
+#footer div{
+	clear: both;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 0px;
+	width: 1000px;
+	
+	text-align: center;
+	font-size: 12px;
+	font-style: oblique;
+	color: #999;
+}
