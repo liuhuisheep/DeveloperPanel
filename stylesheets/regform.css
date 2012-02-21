@@ -1,0 +1,32 @@
+#reg_wrapper{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#reg_form .fieldsetwrap{
+	font-size: 12px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#reg_form .fieldsetwrap .emptyline{
+	width: 300px;
+	margin-top:50px;
+}
+#reg_form .fieldsetwrap .button{
+	cursor: pointer;
+	width: 150px;
+	line-height: 30px;
+	border: #000 1px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #fff;
+	font-family: Georgia;
+	font-size: 16px;
+	font-weight: bold;
+}
+#reg_form .fieldsetwrap .button:hover{
+	color: #fff;
+	background: #000;
+}

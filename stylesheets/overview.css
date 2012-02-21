@@ -1,0 +1,60 @@
+#overview #overview_wrapper{
+	width: 700px;
+	/*
+	border: #000 1px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	*/
+	text-align: left;
+}
+#overview #tabindex ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#overview #tabindex li{
+	float: left;
+	display: block;
+	cursor: pointer;
+	width: 100px;
+	padding: 15px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background: #999;
+	border: #999 1px solid;
+	border-bottom: #000 1px solid;
+	margin-bottom: -1px;
+	z-index: 10;
+}
+#overview #tabindex .curtab{
+	border: #000 1px solid;
+	border-bottom: #fff 1px solid;
+	background: #fff;
+	z-index: 10;
+}
+#overview #tabindex .cutoffline{
+	float: left;
+	height: 69px;
+	width: 104px;
+	padding: 15px;
+	border-bottom: #000 1px solid;
+}
+#overview #tabcnt{
+	clear: both;
+	float: left;
+	width: 660px;
+	border-left: #000 1px solid;
+	border-right: #000 1px solid;
+	border-bottom: #000 1px solid;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}

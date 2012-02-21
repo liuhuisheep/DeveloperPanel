@@ -1,0 +1,54 @@
+#login #login_wrapper{
+	width: 300px;
+	/*
+	border: #000 1px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	*/
+	float: right;
+}
+#login #login_form{
+	/*width: 280px;*/
+}
+#login #login_form .fieldsetwrap{
+	font-size: 12px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	float: left;
+}
+#login #login_form .fieldsetwrap .emptyline{
+	width: 300px;
+	margin-top:50px;
+}
+#login #login_form .fieldsetwrap .button{
+	cursor: pointer;
+	width: 150px;
+	line-height: 30px;
+	border: #000 1px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #fff;
+	font-family: Georgia;
+	font-size: 16px;
+	font-weight: bold;
+}
+#login #login_form .fieldsetwrap .button:hover{
+	color: #fff;
+	background: #000;
+}
+#login #register{
+	text-decoration: none;
+	color: blue;
+}
+#login #register:active{
+	text-decoration: none;
+}
+#login #register:hover{
+	text-decoration: underline;
+}
+#login #register:active{
+	color: blue;
+}

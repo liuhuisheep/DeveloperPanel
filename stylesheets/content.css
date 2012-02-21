@@ -7,13 +7,12 @@
 	text-align: center;
 }
 #content #overview{
-	clear: both;
 	margin: 0px;
 	padding: 0px;
 	float: left;
 	width: 700px;
 }
-#content #login_div{
+#content #login{
 	margin: 0px;
 	padding: 0px;
 	float: left;
